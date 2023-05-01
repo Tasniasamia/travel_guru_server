@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "Sajek",
+      "description": "Sajek is a coastal town in southeastern Bangladesh, known for its long sandy beach which stretches for 120 kilometers. It is one of the most popular tourist destinations in the country, attracting millions of visitors each year. The town also has several other attractions, including the Cox's Bazar Beach Laboratory, the Himchori Waterfall, and the Inani Beach.",
+      "img":"https://i.postimg.cc/dQCCBGFn/Sajek.png",
+      "unik_id":"124e13b9-2d54-4b2f-a74d-a77b362d6ead01"
+
+    },
+    {
+      "id":2,
+      "name": "Sreemongol",
+      "description": "Srimangal is a town in northeastern Bangladesh, known for its tea plantations and natural beauty. It is often called the 'tea capital' of the country, and visitors can take tours of the tea gardens and factories. Srimangal also has several nature reserves, including the Lawachara National Park and the Baikka Beel Wetland Sanctuary.",
+
+      "img":"https://i.postimg.cc/bwmSJT0Y/Sreemongol.png",
+      "unik_id":"124e13b9-2d54-4b2f-a74d-a77b362d6ead02"
+
+    },
+    {
+      "id":3,
+      "name": "Sundorbon",
+      "description": "The Sundarbans is a mangrove forest in southwestern Bangladesh, known for its rich biodiversity and unique ecosystem. It is home to the Bengal tiger, as well as numerous other species of plants and animals. The Sundarbans is also a popular destination for birdwatching, with over 270 species of birds recorded in the area.",
+
+      "img":"https://i.postimg.cc/s2Sz8f2F/sundorbon.png",
+      "unik_id":"124e13b9-2d54-4b2f-a74d-a77b362d6ead03"
+
+    }
+   
+  ]
